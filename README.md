@@ -1,14 +1,34 @@
 
-uso de teste unitarios e de integração numa api feita com node js e express
+# Testes Unitários e de Integração com Express e Jest
 
-realizar teste com api feito com express e jest, teste unitário, integração
+Este repositório demonstra o uso de **testes unitários** e **testes de integração** em uma API feita com **Node.js** e **Express**, utilizando o framework de testes **Jest**.
 
+## Objetivo
 
-#########
+- Criar uma API simples com Express
+- Escrever testes unitários e de integração com Jest
+- Mostrar a importância dos testes automatizados no desenvolvimento backend
 
-npm i 
+## Instalação
 
+```bash
+npm install
+Executar os testes
+bash
+Copiar
+Editar
 npm test
+Tecnologias utilizadas
+Node.js
 
-*************
+Express
+
+Jest
+
+Supertest
+
+Estrutura dos testes
+unit: testa funções isoladas
+
+integration: testa endpoints da API de forma integrada
 
